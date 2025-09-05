@@ -123,7 +123,12 @@
                  "name":"Empanada",
                  "opacity":1,
                  "properties":[
-                        {
+						{
+					     "name":"jitsiConfig",
+					     "type":"string",
+					     "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true } "
+					    },
+						{
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Empanada"
