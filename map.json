@@ -468,7 +468,7 @@
                  "height":0,
                  "id":4,
                  "name":"Empanada",
-                 "point":true,
+                 "point":false,
                  "properties":[
                         {
                          "name":"default",
