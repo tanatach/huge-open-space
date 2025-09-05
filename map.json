@@ -126,7 +126,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https://192.168.9.28:8443/test"
+                         "value":"Empanada"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
