@@ -144,6 +144,11 @@
                          "value":"Empanada"
                         },
 						{
+						 "name":"jitsiNoPrefix",
+						 "type":"bool",
+						 "value":true
+						}, 
+						{
 						 "name":"jitsiUrl",
 						 "type":"string",
 						 "value":"https://jitsi.infomax:8443/test"
