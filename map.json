@@ -142,7 +142,13 @@
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Empanada"
-                        }],
+                        },
+						{
+						 "name":"jitsiUrl",
+						 "type":"string",
+						 "value":"https://192.168.9.28:8443/test"
+							
+						}],
                  "type":"tilelayer",
                  "visible":true,
                  "width":67,
