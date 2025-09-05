@@ -468,28 +468,28 @@
                  "height":0,
                  "id":4,
                  "name":"Empanada",
-                 "point":false,
+                 "point":true,
                  "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/192.168.9.28:8443\/test1"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Configure website in the room Empanada"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
-                        }],
+					{
+                     "name":"jitsiRoom",
+                     "type":"string",
+                     "value":"Empanada"
+                    }, 
+                    {
+                     "name":"jitsiRoomAdminTag",
+                     "type":"string",
+                     "value":"speaker"
+                    }, 
+                    {
+                     "name":"jitsiTrigger",
+                     "type":"string",
+                     "value":"onaction"
+                    }, 
+                    {
+                     "name":"meetingRoomLabel",
+                     "type":"string",
+                     "value":"Empanada"
+                    }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
