@@ -470,26 +470,26 @@
                  "name":"Empanada",
                  "point":true,
                  "properties":[
-					{
-                     "name":"jitsiRoom",
-                     "type":"string",
-                     "value":"Empanada"
-                    }, 
-                    {
-                     "name":"jitsiRoomAdminTag",
-                     "type":"string",
-                     "value":"speaker"
-                    }, 
-                    {
-                     "name":"jitsiTrigger",
-                     "type":"string",
-                     "value":"onaction"
-                    }, 
-                    {
-                     "name":"meetingRoomLabel",
-                     "type":"string",
-                     "value":"Empanada"
-                    }],
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/ExSd8Z4wPsaqMMgTN4VU?layout=canvas"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Configure website in the room Empanada"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"admin"
+                        }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
@@ -506,7 +506,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/192.168.9.28:8443\/test2"
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/ExSd8Z4wPsaqMMgTN4VU?layout=canvas"
                         }, 
                         {
                          "name":"label",
